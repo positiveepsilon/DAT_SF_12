@@ -1,6 +1,11 @@
 DAT SF 12
 =========
 
+<<<<<<< HEAD
+Homework is to be submitted by posting it to your own github repo. Then post the URL and folder where the homework
+lives at [here](http://goo.gl/forms/iH6bHx0tzW).
+
+=======
 <table border="0" style="border-collapse:collapse;" cellspacing="0">
 <tr><td>Instructor:<td>Alessandro Gagliardi</td></tr>
 <tr><td>EiRs:<td>Ramesh Sampath</td></tr>
@@ -58,3 +63,4 @@ Tentative Course Outline
 20. Final Project Presentations (12 min. each)
 21. Final Project Presentations (12 min. each)
 22. Future Directions 
+>>>>>>> 6b44fa29a6c54dae42bfa0e8e0a943d58c6787fe
